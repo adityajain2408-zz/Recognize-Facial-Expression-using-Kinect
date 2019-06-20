@@ -1,0 +1,151 @@
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.CodeAnalysisLog.xml
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.lastcodeanalysissucceeded
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.xml
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.CodeAnalysisLog.xml
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.lastcodeanalysissucceeded
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.xml
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.CodeAnalysisLog.xml
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.lastcodeanalysissucceeded
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.xml
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Amira\Documents\Kinect 2.0\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+C:\Users\Amira\Documents\Kinect 2.0\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+C:\Users\Amira\Documents\Kinect 2.0\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\Amira\Documents\Kinect 2.0\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\Amira\Documents\Kinect 2.0\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\Amira\Documents\Kinect 2.0\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\FaceTrackData.dll
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\FaceTrackLib.dll
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.CodeAnalysisLog.xml
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.lastcodeanalysissucceeded
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\FaceTrackData.dll
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\FaceTrackLib.dll
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.dll
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\FaceTrackData.dll
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\FaceTrackLib.dll
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.dll
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\VS2017\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\FaceTrackData.dll
+C:\VS2017\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\FaceTrackLib.dll
+C:\VS2017\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\VS2017\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\VS2017\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.CodeAnalysisLog.xml
+C:\VS2017\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.lastcodeanalysissucceeded
+C:\VS2017\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.dll
+C:\VS2017\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\VS2017\Kinect2FaceHD\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\VS2017\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+C:\VS2017\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+C:\VS2017\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\VS2017\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+C:\VS2017\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\VS2017\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+C:\VS2017\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+C:\VS2017\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+\\Mac\Home\Desktop\Kinect Research\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Kinect Research\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+\\Mac\Home\Desktop\Kinect Research\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+\\Mac\Home\Desktop\Kinect Research\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+\\Mac\Home\Desktop\Kinect Research\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+\\Mac\Home\Desktop\Kinect Research\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+\\Mac\Home\Desktop\Kinect Research\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\Kinect Research\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+\\Mac\Home\Desktop\Kinect Research\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.CoreCompileInputs.cache
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb

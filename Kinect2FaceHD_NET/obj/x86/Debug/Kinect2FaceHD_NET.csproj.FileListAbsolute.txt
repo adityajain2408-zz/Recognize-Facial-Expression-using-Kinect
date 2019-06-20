@@ -1,0 +1,302 @@
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master3_26\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe.config
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master3_26\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master3_26\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master3_26\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master3_26\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master3_26\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master3_26\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master3_26\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.baml
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master3_26\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.g.cs
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master3_26\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\App.g.cs
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master3_26\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.cache
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master3_26\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.g.resources
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master3_26\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.Properties.Resources.resources
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master3_26\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.GenerateResource.Cache
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master3_26\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master3_26\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_8\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe.config
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_8\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_8\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_8\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_8\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_8\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_8\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csprojResolveAssemblyReference.cache
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_8\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.baml
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_8\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.g.cs
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_8\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\App.g.cs
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_8\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.cache
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_8\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.g.resources
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_8\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.Properties.Resources.resources
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_8\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.GenerateResource.Cache
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe.config
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\FaceTrackData.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csprojResolveAssemblyReference.cache
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.baml
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.g.cs
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\App.g.cs
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.cache
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.g.resources
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.Properties.Resources.resources
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_10\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.GenerateResource.Cache
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe.config
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\FaceTrackData.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csprojResolveAssemblyReference.cache
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.baml
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.g.cs
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\App.g.cs
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.cache
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.g.resources
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.Properties.Resources.resources
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_4_28\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.GenerateResource.Cache
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe.config
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\FaceTrackData.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csprojResolveAssemblyReference.cache
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.baml
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.g.cs
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\App.g.cs
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.cache
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.g.resources
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.Properties.Resources.resources
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_8\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.GenerateResource.Cache
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe.config
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csprojResolveAssemblyReference.cache
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.baml
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.g.cs
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\App.g.cs
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.cache
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.g.resources
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.Properties.Resources.resources
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.GenerateResource.Cache
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\FaceTrackData.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\FaceTrackData.dll
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csprojResolveAssemblyReference.cache
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.baml
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\App.g.cs
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.cache
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.g.resources
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.Properties.Resources.resources
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.GenerateResource.Cache
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\Amira\Downloads\last latest code-20170710T144135Z-001\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\FaceTrackData.dll
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csprojResolveAssemblyReference.cache
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.baml
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\App.g.cs
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.cache
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.g.resources
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.Properties.Resources.resources
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.GenerateResource.Cache
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\Amira\Documents\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\Amira\Documents\Kinect 2.0\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.baml
+C:\Users\Amira\Documents\Kinect 2.0\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Amira\Documents\Kinect 2.0\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\App.g.cs
+C:\Users\Amira\Documents\Kinect 2.0\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.cache
+C:\Users\Amira\Documents\Kinect 2.0\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.g.resources
+C:\Users\Amira\Documents\Kinect 2.0\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.Properties.Resources.resources
+C:\Users\Amira\Documents\Kinect 2.0\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.GenerateResource.Cache
+C:\Users\Amira\Documents\Kinect 2.0\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\FaceTrackData.dll
+C:\Users\Amira\Documents\Kinect 2.0\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\Amira\Documents\Kinect 2.0\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\Amira\Documents\Kinect 2.0\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\Amira\Documents\Kinect 2.0\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Amira\Documents\Kinect 2.0\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\Amira\Documents\Kinect 2.0\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\Amira\Documents\Kinect 2.0\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\Amira\Documents\Kinect 2.0\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\Amira\Documents\Kinect 2.0\last latest code\kinect-2-face-hd-master_5_12\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\FaceTrackData.dll
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe.config
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csprojResolveAssemblyReference.cache
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.baml
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\App.g.cs
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.cache
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.g.resources
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.Properties.Resources.resources
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.GenerateResource.Cache
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\Amira\Documents\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\FaceTrackData.dll
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csprojResolveAssemblyReference.cache
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.baml
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.g.cs
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\App.g.cs
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.cache
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.g.resources
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.Properties.Resources.resources
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.GenerateResource.Cache
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\abbott\Desktop\Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\FaceTrackData.dll
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csprojResolveAssemblyReference.cache
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.baml
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.g.cs
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\App.g.cs
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.cache
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.g.resources
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.Properties.Resources.resources
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.GenerateResource.Cache
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\abbott\Desktop\From Amira 01-aug-2017 Kinect 2.0\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe.config
+C:\VS2017\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\FaceTrackData.dll
+C:\VS2017\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\FaceTrackLib.dll
+C:\VS2017\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe.config
+C:\VS2017\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe
+C:\VS2017\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\VS2017\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.dll
+C:\VS2017\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\VS2017\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\VS2017\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\VS2017\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.xml
+C:\VS2017\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\VS2017\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.baml
+C:\VS2017\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.g.cs
+C:\VS2017\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\App.g.cs
+C:\VS2017\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.cache
+C:\VS2017\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.g.resources
+C:\VS2017\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.Properties.Resources.resources
+C:\VS2017\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.GenerateResource.Cache
+C:\VS2017\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\VS2017\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\VS2017\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csprojResolveAssemblyReference.cache
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\FaceTrackData.dll
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe.config
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csprojResolveAssemblyReference.cache
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.baml
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.g.cs
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\App.g.cs
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.cache
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.g.resources
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.Properties.Resources.resources
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.GenerateResource.Cache
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.CoreCompileInputs.cache
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\sadoo\Desktop\Kinect Research\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\sadoo\Desktop\Kinect_Research\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\FaceTrackData.dll
+C:\Users\sadoo\Desktop\Kinect_Research\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\sadoo\Desktop\Kinect_Research\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe.config
+C:\Users\sadoo\Desktop\Kinect_Research\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\sadoo\Desktop\Kinect_Research\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\sadoo\Desktop\Kinect_Research\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\sadoo\Desktop\Kinect_Research\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\sadoo\Desktop\Kinect_Research\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\sadoo\Desktop\Kinect_Research\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\sadoo\Desktop\Kinect_Research\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\sadoo\Desktop\Kinect_Research\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\sadoo\Desktop\Kinect_Research\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csprojResolveAssemblyReference.cache
+C:\Users\sadoo\Desktop\Kinect_Research\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.baml
+C:\Users\sadoo\Desktop\Kinect_Research\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.g.cs
+C:\Users\sadoo\Desktop\Kinect_Research\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\App.g.cs
+C:\Users\sadoo\Desktop\Kinect_Research\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.cache
+C:\Users\sadoo\Desktop\Kinect_Research\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.g.resources
+C:\Users\sadoo\Desktop\Kinect_Research\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.Properties.Resources.resources
+C:\Users\sadoo\Desktop\Kinect_Research\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.GenerateResource.Cache
+C:\Users\sadoo\Desktop\Kinect_Research\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.CoreCompileInputs.cache
+C:\Users\sadoo\Desktop\Kinect_Research\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\sadoo\Desktop\Kinect_Research\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb

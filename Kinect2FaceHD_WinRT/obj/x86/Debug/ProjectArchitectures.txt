@@ -1,0 +1,1 @@
+C:\Users\surab\Desktop\Research\FEET\kinect-2-face-hd-master3_26\Kinect2FaceHD\Kinect2FaceHD_WinRT\Kinect2FaceHD_WinRT.csproj;x86
